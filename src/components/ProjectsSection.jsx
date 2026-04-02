@@ -7,7 +7,7 @@ const projects = [
     description: "AI-powered mock interview platform designed to help job seekers.",
     image: "/projects/project1.png",
     tags: ["Next.js", "TailwindCSS", "PostgreSQL"],
-    demoUrl: "prep-wise-jade-eta.vercel.app",
+    demoUrl: "https://prep-wise-jade-eta.vercel.app/",
     githubUrl: "https://github.com/Mehakkhan31/PrepWise",
   },
   {
