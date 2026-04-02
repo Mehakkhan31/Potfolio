@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "AI Interview Mocker",
+    title: "PrepWise",
     description: "AI-powered mock interview platform designed to help job seekers.",
     image: "/projects/project1.png",
     tags: ["Next.js", "TailwindCSS", "PostgreSQL"],
-    demoUrl: "ai-interview-mocker-ten-hazel.vercel.app/",
-    githubUrl: "https://github.com/Mehakkhan31/Ai-Interview-Mocker",
+    demoUrl: "prep-wise-jade-eta.vercel.app",
+    githubUrl: "https://github.com/Mehakkhan31/PrepWise",
   },
   {
     id: 2,
@@ -17,8 +17,8 @@ const projects = [
       "Ai Powered No Code Plateform",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Typescript"],
-    demoUrl: "https://github.com/Mehakkhan31/AI_Powered_No_Code_Platform",
-    githubUrl: "https://github.com/Mehakkhan31/AI_Powered_No_Code_Platform",
+    demoUrl: "https://github.com/Mehakkhan31/Webify",
+    githubUrl: "https://github.com/Mehakkhan31/Webify",
   },
   {
     id: 3,
